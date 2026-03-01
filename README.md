@@ -6,7 +6,7 @@ I don't just break things; I build them. I bridge the gap between offensive secu
 
 ### ⚡ What I'm Up To
 - 🔭 **Currently working on:** Hunting bug bounties, maintaining **Bunk Buddy** (a private Next.js/Tailwind attendance wingman), engineering new open-source tools, and compiling technical study notes to share with the community.
-- 🌱 **Currently learning:** Bug Hunting, Different Computer Concepts,Filmaking Concepts and prepping for Next CTF certainly an unending journey with infinite curiocity.
+- 🌱 **Currently learning:** Bug Hunting, Different Computer Concepts,Filmaking Concepts and prepping for Next CTF certainly an unending journey with infinite curiosity.
 - 👯 **Looking to collaborate on:** CTF competitions, open-source offensive security tools, or creative tech meets / film projects. 
 - 💬 **Ask me strictly about:** - **Cybersecurity:** Bug Hunting,Capture The Flags.
   - **Filmmaking:** Directing, scriptwriting, VFX, and color grading in DaVinci Resolve.
@@ -15,5 +15,5 @@ I don't just break things; I build them. I bridge the gap between offensive secu
 
 ### 📫 Connect with Me
 [<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />](https://www.linkedin.com/in/prohaneen/)
-[<img src="https://img.shields.io/badge/Instagram-Pro__Hanin__one-E4405F?style=for-the-badge&logo=instagram" />](https://www.instagram.com/prohaneen1/)
+[<img src="https://img.shields.io/badge/Instagram-Prohaneen1-E4405F?style=for-the-badge&logo=instagram" />](https://www.instagram.com/prohaneen1/)
 [<img src="https://img.shields.io/badge/YouTube-My_Channel-FF0000?style=for-the-badge&logo=youtube" />](https://www.youtube.com/@HanTalks)
